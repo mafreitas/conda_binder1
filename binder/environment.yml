@@ -1,17 +1,17 @@
 name: base
 Channels:
-  - conda-forge
+  - Conda-forge
   - bioconda
   - defaults
 dependencies:
-  -r-base=4.0.1
-  -python=3.8.8
-  -r-dplyr
-  -r-ggplot2
-  -r-reshape2
-  -r-tidyverse
-  -pip
-  -pip:
+  - r-base=4.0.1
+  - python=3.8.8
+  - r-dplyr
+  - r-ggplot2
+  - r-reshape2
+  - r-tidyverse
+  - pip
+  - pip:
    - pandas
    - matplotlib
    - numpy
