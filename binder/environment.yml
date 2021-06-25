@@ -1,5 +1,5 @@
 name: base
-Channels:
+channels:
   - Conda-forge
   - bioconda
   - defaults
