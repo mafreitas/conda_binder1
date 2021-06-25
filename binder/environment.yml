@@ -1,6 +1,6 @@
 name: base
 channels:
-  - Conda-forge
+  - conda-forge
   - bioconda
   - defaults
 dependencies:
